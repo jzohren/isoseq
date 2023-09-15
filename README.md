@@ -58,7 +58,7 @@ sample,bam,pbi
 sample1,sample1.subreads.bam,sample1.subreads.bam.pbi
 ```
 
-Each row represents a pair of rqw subreads and it's associated pacbio index (pbi) file fastq files.
+Each row represents a pair of raw subreads and their associated pacbio index (pbi) file.
 
 Now, you can run the pipeline using:
 
